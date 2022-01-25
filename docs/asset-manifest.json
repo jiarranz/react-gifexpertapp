@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-gifexpertapp/static/css/main.f4f0dbf2.css",
+    "main.js": "/react-gifexpertapp/static/js/main.26fc4061.js",
+    "index.html": "/react-gifexpertapp/index.html",
+    "main.f4f0dbf2.css.map": "/react-gifexpertapp/static/css/main.f4f0dbf2.css.map",
+    "main.26fc4061.js.map": "/react-gifexpertapp/static/js/main.26fc4061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f0dbf2.css",
+    "static/js/main.26fc4061.js"
+  ]
+}
